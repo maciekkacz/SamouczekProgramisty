@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dfe78b63-9499-486f-a385-ccf071eeebc7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/objectsAndPackages/Exercises02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/objectsAndPackages/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/objectsAndPackages/MyNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tables/Exercises03.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/methods/Exercises.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/methods/Exercises01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/methods/ExercisesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/methods/Exercises01Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/methods/Exercises.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/methods/TestClass.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -18,6 +12,10 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideWarnings" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="1219605792">
@@ -29,23 +27,23 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="11" />
+          <entry key="java" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="11" />
+          <entry key="JAVA" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="18" />
-          <entry key="java" value="1985" />
+          <entry key="java" value="2506" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1985" />
+          <entry key="JAVA" value="2506" />
           <entry key="PLAIN_TEXT" value="18" />
         </counts>
       </usages-collector>
@@ -92,11 +90,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/objectsAndPackages/MyNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="163">
-              <caret line="39" column="24" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
+            <state relative-caret-position="690">
+              <caret line="43" selection-start-line="43" selection-end-line="43" />
               <folding>
                 <element signature="e#206#207#0" expanded="true" />
                 <element signature="e#241#242#0" expanded="true" />
@@ -104,6 +102,21 @@
                 <element signature="e#345#346#0" expanded="true" />
                 <element signature="e#396#397#0" expanded="true" />
                 <element signature="e#437#438#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/tables/Exercises03.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="46" lean-forward="true" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="46" />
+              <folding>
+                <element signature="e#527#528#0" expanded="true" />
+                <element signature="e#588#589#0" expanded="true" />
+                <element signature="e#615#616#0" expanded="true" />
+                <element signature="e#681#682#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -147,6 +160,7 @@
         <option value="$PROJECT_DIR$/src/main/java/objectsAndPackages/Exercises02Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/objectsAndPackages/Rectangle.java" />
         <option value="$PROJECT_DIR$/src/main/java/objectsAndPackages/MyNumber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tables/Exercises03.java" />
       </list>
     </option>
   </component>
@@ -195,15 +209,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="methods" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SamouczekProgramisty" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SamouczekProgramisty" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="objectsAndPackages" type="462c0819:PsiDirectoryNode" />
+              <item name="tables" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -212,7 +218,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571478717390" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571481511311" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -231,13 +237,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MyNumber">
+  <component name="RunManager" selected="Application.Exercises03">
     <configuration name="Exercises01Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="methods.Exercises01Test" />
       <module name="SamouczekProgramisty" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="methods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercises03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tables.Exercises03" />
+      <module name="SamouczekProgramisty" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tables.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -275,9 +294,11 @@
       <item itemvalue="Application.Exercises01Test" />
       <item itemvalue="Application.Rectangle" />
       <item itemvalue="Application.MyNumber" />
+      <item itemvalue="Application.Exercises03" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercises03" />
         <item itemvalue="Application.MyNumber" />
         <item itemvalue="Application.Rectangle" />
         <item itemvalue="Application.Exercises01Test" />
@@ -315,7 +336,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32847896" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39967638" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -414,8 +435,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/objectsAndPackages/MyNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="163">
-          <caret line="39" column="24" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
+        <state relative-caret-position="690">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
           <folding>
             <element signature="e#206#207#0" expanded="true" />
             <element signature="e#241#242#0" expanded="true" />
@@ -423,6 +444,19 @@
             <element signature="e#345#346#0" expanded="true" />
             <element signature="e#396#397#0" expanded="true" />
             <element signature="e#437#438#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tables/Exercises03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="46" lean-forward="true" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="46" />
+          <folding>
+            <element signature="e#527#528#0" expanded="true" />
+            <element signature="e#588#589#0" expanded="true" />
+            <element signature="e#615#616#0" expanded="true" />
+            <element signature="e#681#682#0" expanded="true" />
           </folding>
         </state>
       </provider>
