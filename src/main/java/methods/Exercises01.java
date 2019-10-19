@@ -3,7 +3,7 @@ package methods;
 import java.lang.reflect.Array;
 import java.util.Arrays;
 
-public class Exercises {
+public class Exercises01 {
 
     /*
     1 Napisz metodę, która zwróci Twój aktualny wiek.

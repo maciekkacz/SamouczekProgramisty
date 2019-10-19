@@ -1,8 +1,8 @@
 package methods;
 
-public class ExercisesTest {
+public class Exercises01Test {
     public static void main(String[] args) {
-        Exercises exe = new Exercises();
+        Exercises01 exe = new Exercises01();
         System.out.println(exe.myAge(30));
         exe.myName("Maciek");
         exe.twoNumbers(10,20);
