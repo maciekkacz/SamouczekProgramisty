@@ -1,7 +1,7 @@
 package loopsAndConditionalStatements;
 // Task 3
 public class ArrayFactory {
-    private int number;
+    public int number;
 
     public ArrayFactory(int number) {
         this.number = number;
@@ -20,4 +20,20 @@ public class ArrayFactory {
         return array;
     }
 
+    // Task 8
+
+    public int[][] identityMatrix() {
+        int[][] matrix = twoDimension();
+        for (int i = 0; i < number; i++) {
+            for (int j = 0; j < number; j++) {
+                if (i == j) {
+                    matrix[i][j] = 1;
+                } else {
+                    matrix[i][j] = 0;
+                }
+            }
+        }
+        return matrix;
+    }
 }
+
