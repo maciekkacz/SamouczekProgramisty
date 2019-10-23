@@ -94,4 +94,19 @@ public class Exercises04 {
         }
         System.out.println("]");
     }
+
+    //Task 10
+    public static int[] sortingNumbers(int[] array) {
+        for (int i = 0; i < array.length; i++) {
+            for (int j = 0; j < array.length - 1 - i; j++) {
+                int next = j + 1;
+                if (array[j] > array[next]) {
+                    int tmp = array[next];
+                    array[next] = array[j];
+                    array[j] = tmp;
+                }
+            }
+        }
+        return array;
+    }
 }
